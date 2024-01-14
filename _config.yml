@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   Computer science blog where we make tech fun and accessible! Dive into coding, data structures, algorithms, and more, whether you're a tech enthusiast or just curious. Join for engaging tutorials, hands-on learning, and exciting projects to fuel your tech adventures!
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://crixodia.com"
+url: "https://blog.crixodia.com"
 
 github:
   username: crixodia # change to your github username
