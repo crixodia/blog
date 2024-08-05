@@ -6,7 +6,7 @@ date: 2021-07-05 00:00:00 -0500
 math: true
 mermaid: false
 pin: false
-img_path: /assets/img/posts/counting-prime-numbers-classic-vs-sieve-eratosthenes/
+media_subpath: /assets/img/posts/counting-prime-numbers-classic-vs-sieve-eratosthenes/
 image: erathostenes-post.webp
 ---
 Counting prime numbers is a fundamental problem in programming. While a classical approach is the first choice for many, the efficiency of the algorithm matters. In this blog post, we'll explore two approaches for solving this problem and compare their performance.

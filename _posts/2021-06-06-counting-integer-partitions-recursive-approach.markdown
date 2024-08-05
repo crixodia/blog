@@ -6,7 +6,7 @@ date: 2021-06-06 00:00:00 -0500
 math: false
 mermaid: false
 pin: false
-img_path: /assets/img/posts/counting-integer-partitions-recursive-approach/
+media_subpath: /assets/img/posts/counting-integer-partitions-recursive-approach/
 image: partitions-post.webp
 ---
 As an aspiring engineer, I regularly tackle daily code challenges to enhance my skills. I enjoyed a winning streak until I encountered the following intriguing problem.

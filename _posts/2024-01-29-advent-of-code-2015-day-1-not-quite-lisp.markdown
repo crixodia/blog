@@ -6,7 +6,7 @@ date: 2024-02-11 15:00:00 -0500
 math: false
 mermaid: false
 pin: false
-img_path: /assets/img/posts/advent-of-code/2015/
+media_subpath: /assets/img/posts/advent-of-code/2015/
 image: day-1-not-quite-lisp.webp
 ---
 

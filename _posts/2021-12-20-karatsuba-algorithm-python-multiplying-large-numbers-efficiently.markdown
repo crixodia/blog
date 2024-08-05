@@ -6,7 +6,7 @@ date: 2021-12-20 11:55:00 -0500
 math: true
 mermaid: true
 pin: false
-img_path: /assets/img/posts/karatsuba-algorithm-python-multiplying-large-numbers-efficiently/
+media_subpath: /assets/img/posts/karatsuba-algorithm-python-multiplying-large-numbers-efficiently/
 image: karatsuba-post.webp
 ---
 Multiplying numbers is a fundamental mathematical operation, and we all learn various methods for doing so in school. However, when it comes to dealing with large numbers, this seemingly simple task can become quite computationally expensive. In such scenarios, we need smarter algorithms to optimize the process. Anatoly Karatsuba's algorithm offers a brilliant solution that, while complex for humans, is incredibly efficient for computers.

@@ -6,7 +6,7 @@ date: 2021-05-23 11:55:00 -0500
 math: true
 mermaid: true
 pin: false
-img_path: /assets/img/posts/dijkstras-algorithm-python/
+media_subpath: /assets/img/posts/dijkstras-algorithm-python/
 image: python-dijkstra-post.webp
 ---
 If you're studying engineering or computer science, you've likely encountered graph theory, a fascinating field with myriad applications in these disciplines.
