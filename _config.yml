@@ -3,29 +3,21 @@
 # Import the theme
 theme: jekyll-theme-chirpy
 
-<<<<<<< HEAD
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
 baseurl: ""
 
-=======
->>>>>>> v7.3.0
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-<<<<<<< HEAD
 timezone: America/Guayaquil
-=======
-timezone:
->>>>>>> v7.3.0
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-<<<<<<< HEAD
 title: crixodia # the main title
 
 tagline: Exploring the World of Computer Science # it will display as the sub-title
@@ -41,29 +33,10 @@ github:
 
 twitter:
   username: crixodia # change to your twitter username
-=======
-title: Chirpy # the main title
-
-tagline: A text-focused Jekyll theme # it will display as the subtitle
-
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
-
-# Fill in the protocol & hostname for your site.
-# E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
-
-github:
-  username: github_username # change to your GitHub username
-
-twitter:
-  username: twitter_username # change to your Twitter username
->>>>>>> v7.3.0
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-<<<<<<< HEAD
   name: Cristian Bastidas
   # email: example@domain.com # change to your email address
   links:
@@ -73,17 +46,6 @@ social:
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/crixodia
-=======
-  name: your_full_name
-  email: example@domain.com # change to your email address
-  links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
->>>>>>> v7.3.0
 
 # Site Verification Settings
 webmaster_verifications:
@@ -97,16 +59,9 @@ webmaster_verifications:
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
-<<<<<<< HEAD
 analytics:
   google:
     id: G-4N7Q6SB1YZ
-=======
-# Web Analytics Settings
-analytics:
-  google:
-    id: # fill in your Google Analytics ID
->>>>>>> v7.3.0
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -117,15 +72,8 @@ analytics:
     domain: # fill in your Matomo domain
   cloudflare:
     id: # fill in your Cloudflare Web Analytics token
-<<<<<<< HEAD
 
 # Pageviews settings
-=======
-  fathom:
-    id: # fill in your Fathom Site ID
-
-# Page views settings
->>>>>>> v7.3.0
 pageviews:
   provider: # now only supports 'goatcounter'
 
@@ -137,17 +85,10 @@ pageviews:
 #
 # Available options:
 #
-<<<<<<< HEAD
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
 theme_mode: # [light|dark]
-=======
-#     light — Use the light color scheme
-#     dark — Use the dark color scheme
-#
-theme_mode: # [light | dark]
->>>>>>> v7.3.0
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -157,11 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-<<<<<<< HEAD
 avatar: https://avatars.githubusercontent.com/u/6288158
-=======
-avatar:
->>>>>>> v7.3.0
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -171,14 +108,8 @@ social_preview_image: # string, local or CORS resources
 toc: true
 
 comments:
-<<<<<<< HEAD
   provider: giscus
   # The active options are as follows:
-=======
-  # Global switch for the post-comment system. Keeping it empty means disabled.
-  provider: # [disqus | utterances | giscus]
-  # The provider options are as follows:
->>>>>>> v7.3.0
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
@@ -187,17 +118,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-<<<<<<< HEAD
     repo: crixodia/crixodia.github.io
     repo_id: R_kgDOKdcfjw
     category: General
     category_id: DIC_kwDOKdcfj84CZ858
-=======
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
->>>>>>> v7.3.0
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
@@ -210,21 +134,12 @@ assets:
     enabled: # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
-<<<<<<< HEAD
     env: # [development|production]
 
 pwa:
   enabled: true # the option for PWA feature (installable)
   cache:
     enabled: true # the option for PWA offline cache
-=======
-    env: # [development | production]
-
-pwa:
-  enabled: true # The option for PWA feature (installable)
-  cache:
-    enabled: true # The option for PWA offline cache
->>>>>>> v7.3.0
     # Paths defined here will be excluded from the PWA cache.
     # Usually its value is the `baseurl` of another website that
     # shares the same domain name as the current website.
@@ -233,11 +148,6 @@ pwa:
 
 paginate: 10
 
-<<<<<<< HEAD
-=======
-# The base URL of your site
-baseurl: ""
->>>>>>> v7.3.0
 
 # ------------ The following options are not recommended to be modified ------------------
 
@@ -279,13 +189,10 @@ defaults:
     values:
       layout: page
       permalink: /:title/
-<<<<<<< HEAD
   - scope:
       path: assets/js/dist
     values:
       swcache: true
-=======
->>>>>>> v7.3.0
 
 sass:
   style: compressed
@@ -306,14 +213,9 @@ exclude:
   - tools
   - README.md
   - LICENSE
-<<<<<<< HEAD
-  - "*.config.js"
-  - package*.json
-=======
   - purgecss.js
   - "*.config.js"
   - "package*.json"
->>>>>>> v7.3.0
 
 jekyll-archives:
   enabled: [categories, tags]
@@ -322,8 +224,4 @@ jekyll-archives:
     tag: tag
   permalinks:
     tag: /tags/:name/
-<<<<<<< HEAD
     category: /categories/:name/
-=======
-    category: /categories/:name/
->>>>>>> v7.3.0
