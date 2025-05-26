@@ -6,6 +6,7 @@
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
+<<<<<<< HEAD
 - type: linkedin
   icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
   url: "https://linkedin.com/in/crixodia" # Fill with your Linkedin homepage
@@ -29,20 +30,51 @@
 - type: discord
   icon: "fab fa-discord"
   url: "https://discord.gg/zsqQWUSR" # Fill with your Discord homepage
+=======
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true # open link in current tab
+>>>>>>> v7.3.0
 
 - type: rss
   icon: "fas fa-rss"
   noblank: true
+<<<<<<< HEAD
 # - type: email
 #   icon: "fas fa-envelope"
 #   noblank: true # open link in current tab
 
+=======
+>>>>>>> v7.3.0
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
+<<<<<<< HEAD
 
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
+=======
+#
+# - type: linkedin
+#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+#   url:  ''                  # Fill with your Linkedin homepage
+#
+# - type: stack-overflow
+#   icon: 'fab fa-stack-overflow'
+#   url:  ''                  # Fill with your stackoverflow homepage
+#
+# - type: bluesky
+#   icon: 'fa-brands fa-bluesky'
+#   url: ''                   # Fill with your Bluesky profile link
+#
+# - type: reddit
+#   icon: 'fa-brands fa-reddit'
+#   url: ''                   # Fill with your Reddit profile link
+#
+# - type: threads
+#   icon: 'fa-brands fa-threads'
+#   url: ''                   # Fill with your Threads profile link
+>>>>>>> v7.3.0

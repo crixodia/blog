@@ -1,5 +1,6 @@
 ---
 # the default layout is 'page'
+<<<<<<< HEAD
 title: About
 icon: fas fa-info-circle
 order: 4
@@ -28,3 +29,11 @@ My goal is to build a vibrant community around this blog where we can learn, gro
 Let's embark on this exciting journey of discovery together. Remember, learning is not just a pursuit; it's an adventure waiting to be explored. Join me in making the world of Computer Science an engaging and enjoyable experience.
 
 Thank you for being a part of this blog. I hope you enjoy your stay! 😁
+=======
+icon: fas fa-info-circle
+order: 4
+---
+
+> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+{: .prompt-tip }
+>>>>>>> v7.3.0
