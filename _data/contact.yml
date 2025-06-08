@@ -6,29 +6,29 @@
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
-- type: linkedin
-  icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
-  url: "https://linkedin.com/in/crixodia" # Fill with your Linkedin homepage
+#- type: linkedin
+#  icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
+#  url: "https://linkedin.com/in/crixodia" # Fill with your Linkedin homepage
 
-- type: youtube
-  icon: "fab fa-youtube"
-  url: "https://www.youtube.com/@crixodia" # Fill with your Youtube homepage
+#- type: youtube
+#  icon: "fab fa-youtube"
+#  url: "https://www.youtube.com/@crixodia" # Fill with your Youtube homepage
 
 - type: instagram
   icon: "fab fa-instagram"
   url: "https://www.instagram.com/crixodia" # Fill with your Instagram homepage
 
-- type: tiktok
-  icon: "fab fa-tiktok"
-  url: "https://www.tiktok.com/@crixodia_en" # Fill with your Tiktok homepage
+#- type: tiktok
+#  icon: "fab fa-tiktok"
+#  url: "https://www.tiktok.com/@crixodia_en" # Fill with your Tiktok homepage
 
-- type: twitch
-  icon: "fab fa-twitch"
-  url: "https://www.twitch.tv/crixodia" # Fill with your Twitch homepage
+#- type: twitch
+#  icon: "fab fa-twitch"
+#  url: "https://www.twitch.tv/crixodia" # Fill with your Twitch homepage
 
-- type: discord
-  icon: "fab fa-discord"
-  url: "https://discord.gg/zsqQWUSR" # Fill with your Discord homepage
+#- type: discord
+#  icon: "fab fa-discord"
+#  url: "https://discord.gg/zsqQWUSR" # Fill with your Discord homepage
 
 - type: rss
   icon: "fas fa-rss"
