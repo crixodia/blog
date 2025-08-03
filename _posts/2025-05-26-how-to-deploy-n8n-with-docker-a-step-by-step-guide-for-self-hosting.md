@@ -1,5 +1,5 @@
 ---
-title: "How to Deploy n8n with Docker: A Step-by-Step Guide forSelf-Hosting"
+title: "How to Deploy n8n with Docker: A Step-by-Step Guide for Self-Hosting"
 categories: [DevOps, Docker]
 tags: [n8n, Docker, Automation, Self-Hosting]
 date: 2025-05-26 20:00:00 -0500
